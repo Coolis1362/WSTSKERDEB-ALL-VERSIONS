@@ -243,7 +243,7 @@ def put_distro_name_here(): # Replace put_distro_name_here with the name of your
 if __name__ == "__main__": # DON'T REMOVE THIS LINE
     if bootloader.BOOT.boot.bootos() == "1":
         if boot():
-            os.system("clear")
+            os.system("cls")
             put_distro_name_here() # REPLACE THIS LINE WITH THE NAME OF THE MAIN FUNCTION
         else:
          print("BOOT Failed")
