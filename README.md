@@ -16,10 +16,14 @@
 1. Open `cmd.exe` (Command Prompt).
 2. Navigate to the project directory:
    ```cmd
-   cd path\to\wstskerdebversion
+   cd C:\Windows\System32\wstskerdebversion
    ```
 3. Run the appropriate script or executable to start a TS-KERNEL LDT distro.
    - *`wstskerdeb.exe`*
+4. Or Open `cmd.exe` (Command Prompt) and run the following command:
+   ```batch
+   wstskerdeb.exe
+   ```
 
 ## Requirements
 - Windows OS
