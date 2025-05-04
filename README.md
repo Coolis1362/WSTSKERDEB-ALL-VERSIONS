@@ -33,7 +33,7 @@
 
 ## Releases
 
-The Releases Are Available Here: [Releases]
+The Releases Are Available Here: [Releases](https://github.com/Coolis1362/WSTSKERDEB-ALL-VERSIONS/releases)
 
 ---
 *Created: May 3, 2025*
