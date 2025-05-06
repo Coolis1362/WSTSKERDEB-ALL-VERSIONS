@@ -48,7 +48,7 @@ To Start Upgrading, If You have A Prevoius Version of WSTSKERDEB Installed Follo
 - 7th Lauch wstskerdeb.exe
 - 8th (If Crash) Launch wstskerlan.py In C:\Windows\System32\wstskerdeb\root\boot
 
-Good Job! You Are Doen Upgrading WSTSKERDEN Have Fun!
+Good Job! You Are Done Upgrading WSTSKERDEN Have Fun!
 
 ---
 *Created: May 3, 2025*
