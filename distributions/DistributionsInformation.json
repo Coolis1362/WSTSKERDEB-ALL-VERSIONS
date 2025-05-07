@@ -1,0 +1,21 @@
+{
+    "Distributions Informations": {
+        "DistroName": [
+            {
+                "Title": "Distro Basic Information",
+                "Name": "Distro Name",
+                "FriendlyName": "Distro name but Friendly",
+                "Recommanded?": "Choose true Or false", "comment": "This Will Be Actually Be Decided By Coolis1362, Using A Wheel",
+                "Description": "Description of the Distro",
+                "Release Version": "Release version of the Distro",
+                "RTM?": "Choose true Or false",
+                "In Development?": "Choose true Or false",
+                "Build Number": "Build number of the Distro"
+            },
+            {
+                "Title": "Main Code URL",
+                "Main Code URL": "Main code URL of the Distro e.g. https://github.com/USERNAME/REPOSITORY/blob/BRANCH/path/to/file/root/boot/ts-distro-DistroName.py or https://github.com/USERNAME/REPOSITORY/blob/BRANCH/path/to/file/root/boot/ts-distro-DistroName.exe"
+            }
+        ]
+    }
+}
